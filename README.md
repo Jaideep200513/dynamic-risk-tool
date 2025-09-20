@@ -16,14 +16,14 @@ Check out the live version hosted on Hugging Face Spaces:
 - Real-time risk assessment via Flask backend API.
 
 ## 📁 Project Structure
-``
+```
 dynamic-risk-tool/
 |-- app.py # Flask backend for risk calculations
 |-- index.html # Frontend UI
 |-- style.css # Styling for the frontend
 |-- script.js # Handles user input & API calls
 |-- requirements.txt # Python dependencies
-``
+```
 
 
 ## ✨ Acknowledgements
